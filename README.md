@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValentinaBelle
-- 👀 I’m interested in front-end development, computer science, art and sports.
-- 🌱 I’m currently learning front-end development.
+- 👀 I’m interested in front-end development, computer science, AI and sports.
+- 🌱 I’m currently learning front-end development and how AI works.
 - 💞️ I’m looking to collaborate on new projects with y'all guys!
 - 📫 How to reach me - if there is a will => there is a way.
 
